@@ -1,3 +1,4 @@
+package LECTURE;
 import java.util.Scanner;
 
 public class Temp {
